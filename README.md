@@ -1,2 +1,0 @@
-# SeMethod
-uni work
